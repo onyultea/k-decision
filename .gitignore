@@ -1,0 +1,11 @@
+*.gguf
+*.log
+*.pyc
+*.st
+.mimosa/
+.venv/
+__pycache__/
+models/
+nohup.out
+reports/*.log
+secrets/
